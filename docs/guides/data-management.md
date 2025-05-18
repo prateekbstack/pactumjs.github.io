@@ -4,7 +4,7 @@ Data Management is one of the most powerful features of **PactumJS**. It allows 
 
 ## Introduction
 
-Test data managements plays a critical role in maintaining you automation tests suites healthy. As the functionality of the application grows, the scope of the testing grows with it. At one point, managing data becomes complex especially in API Testing.
+Test data managements plays a critical role in maintaining the health of your automation tests. As the functionality of the application grows, the scope of the testing grows with it. At one point, managing data becomes complex especially in API Testing.
 
 ### Example
 
